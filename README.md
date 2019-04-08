@@ -2,7 +2,7 @@
 ---
 ### 1. Bubble Sort
 Bubble sort membandingan 2 value yang bersebelahan (adjacent value), ini berulang terus menerus sampai list sudah tersorting. 
-```
+```js
 function bubbleSort(array) {
   var isSwap = true;
   var nextIndex;
